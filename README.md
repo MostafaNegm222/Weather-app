@@ -16,20 +16,17 @@ A modern web browser
 Installation
 Clone the repository:
 
-sh
-نسخ الكود
+
 git clone https://github.com/MostafaNegm222/Weather-app.git
 Navigate to the project directory:
 
-sh
-نسخ الكود
 cd weather-app
 Obtain an API key from OpenWeatherMap.
 
 Open the script.js file and add your API key in the designated area:
 
 javascript
-نسخ الكود
+
 const apiKey = 'your_api_key_here';
 Running the App
 Open the index.html file in your web browser.
